@@ -4,7 +4,6 @@ import jakarta.persistence.EmbeddedId;
 import jakarta.persistence.Entity;
 import jakarta.persistence.Table;
 
-import java.util.List;
 import java.util.Objects;
 
 @Entity
