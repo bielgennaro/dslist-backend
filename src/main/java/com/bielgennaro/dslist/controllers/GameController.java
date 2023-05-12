@@ -3,7 +3,6 @@ package com.bielgennaro.dslist.controllers;
 import java.util.List;
 
 import com.bielgennaro.dslist.dto.GameMinDTO;
-import com.bielgennaro.dslist.entities.Game;
 import com.bielgennaro.dslist.services.GameService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;

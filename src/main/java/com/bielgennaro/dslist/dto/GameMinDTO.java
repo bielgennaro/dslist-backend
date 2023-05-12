@@ -9,7 +9,7 @@ public class GameMinDTO {
     private String imgUrl;
     private String shortDescription;
 
-    public GameMinDTO(){
+    public GameMinDTO() {
 
     }
 
