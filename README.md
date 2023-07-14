@@ -1,6 +1,6 @@
 # Projeto DSList
 - O que é este projeto?<br>
-  Esse projeto foi realizado acompanhado do professor Nélio do canal DevSuperior, focado na aprendizagem do framework Spring e banco de dados, consiste em uma API com o tema de games.
+  Esse projeto foi realizado rfocado na aprendizagem do framework Spring e banco de dados, consiste em uma API com o tema de games.
  ## O que foi utilizado neste projeto?
  - Java
  - Spring Boot
